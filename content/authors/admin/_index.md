@@ -21,7 +21,7 @@ role: Undergraduate student from Dalian University of Technology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Dalain University of Technology
+  - name: Dalian University of Technology
     url: https://www.dlut.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
