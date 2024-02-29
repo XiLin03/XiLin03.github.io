@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: BSc in Dalain University of Technology
+role: Undergraduate student from Dalian University of Technology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Bachelor in Dalain University of Technology
+  - name: Dalain University of Technology
     url: https://www.dlut.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
@@ -42,10 +42,9 @@ education:
 #    - course: MEng in Artificial Intelligence
 #      institution: Massachusetts Institute of Technology
 #      year: 2009
-    - course: BSc in Mechanical Engineering
-    - course: Minor in Automation
+    - course: BSc in Mechanical Engineering / Minor in Automation
       institution: Dalain University of Technology
-      year: 2008
+      year: 2021-2025
 
 
 # Skills
@@ -58,34 +57,44 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: MATLAB
         description: ''
-        percent: 100
-        icon: chart-line
+        percent: 70
+        icon: MATLAB
         icon_pack: fas
-      - name: SQL
+      - name: C++
         description: ''
-        percent: 40
-        icon: database
+        percent: 70
+        icon: C++
         icon_pack: fas
+      - name: ROS
+        description: ''
+        percent: 60
+        icon: ROS
+        icon_pack: fas
+      - name: SolidWorks
+        description: ''
+        percent: 90
+        icon: SolidWorks
+        icon_pack: fas        
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Guitar
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 70
+        icon: guitar
         icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+      - name: Badminton
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: Badminton
+        icon_pack: fas
+      - name: cats
+        description: ''
+        percent: 60
+        icon: cat
         icon_pack: fas
 
 # Social/Academic Networking
@@ -95,22 +104,23 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: xilin03@outlook.com
+    # '/#contact'
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://www.linkedin.com/in/xi-lin-705940273/
+#    label: Follow me on Twitter
+#    display:
+#      header: true
+#  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+#    icon_pack: fas
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/xilin03
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/xi-lin-705940273/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -122,5 +132,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xi Lin is an undergraduate majoring in artificial intelligence at Chongqing University. He has some experience in academic research and is now exploring his new interests and research directions.
 {style="text-align: justify;"}
