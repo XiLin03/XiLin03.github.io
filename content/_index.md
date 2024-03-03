@@ -55,26 +55,28 @@ sections:
       title: Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
+      date_format: Jan 2024
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Research Assistant	
+          company: Dalian University of Technology
           company_url: ''
           company_logo: org-gc
           location: California
-          date_start: '2021-01-01'
+          date_start: '2022-10-01'
           date_end: ''
-          description: |2-
+          description: supervised by Associate Prof. Xuetao Zhang |2-
               Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+  
+              * Read literature related to deep learning and computer vision.
+              * Detected objects in images and videos using the YOLO v5 model.
+              * Completed the paper based on experimental results. Prepared for the academic poster and presentations at a conference.
+              * Now learning the knowledge concerning SLAM.
+    
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
