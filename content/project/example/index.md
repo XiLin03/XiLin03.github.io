@@ -2,7 +2,7 @@
 title: Research on Object Detection of Robotic based on Convolutional Neural Network	
 summary: accepted by the 2023 3rd International Conference on Image Processing and Intelligent Control.
 tags:
-  - Deep Learning
+  - AI for Robots 
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
