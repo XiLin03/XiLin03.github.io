@@ -77,16 +77,36 @@ sections:
               * Completed the paper based on experimental results. Prepared for the academic poster and presentations at a conference.
               * Now learning the knowledge concerning SLAM.
     
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Research Participant
+          company: North Carolina State University
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: supervised by Full Prof. Hao Su from NCSU
+          date_start: '2023-01-01'
+          date_end: '2023-08-31'
+          description: |2-
+              Responsibilities include:
+
+              * Received systematic training in fundamentals and principles of quadruped robots and reinforcement learning.
+              * Read over 10 relevant papers to determine a specific area of interest. 
+              * Built Isaac Gym reinforcement learning environments and imported the parameter model of the robotic arm to simulate training of robotic arm gripping and stacking cube tasks, adjusted parameters according to requirements, and completed related experiments. 
+              * Designed an academic poster.
+
+        - title: Research Assistant	
+          company: Dalian University of Technology
+          company_url: ''
+          company_logo: org-x
+          location: supervised by Associate Prof. Xuyang Cao
+          date_start: '2022-08-01'
+          date_end: '2023-03-31'
+          description: |2-
+              Responsibilities include:
+
+              * Finished most patent-related work, including market investigation, designing 3D models of a new conveyor based on spiral closed anti-blocking and a type of grinding device with SolidWorks based on technical loopholes of current products, and writing descriptions accordingly.
+              * Successfully completed two patent applications.
+
     design:
-      columns: '2'
+      columns: '3'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
