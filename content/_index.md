@@ -66,10 +66,10 @@ sections:
           company: Dalian University of Technology
           company_url: ''
           company_logo: org-gc
-          location: California
+          location: supervised by Associate Prof. Xuetao Zhang
           date_start: '2022-10-01'
           date_end: ''
-          description: supervised by Associate Prof. Xuetao Zhang |2-
+          description: |2-
               Responsibilities include:
   
               * Read literature related to deep learning and computer vision.
