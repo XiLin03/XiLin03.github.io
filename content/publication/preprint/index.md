@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "Xi Lin, Yuge Chen, Donglai Liu, Research on Object Detection of Robotic based on Convolutional Neural Network, accepted by the 2023 3rd International Conference on Image Processing and Intelligent Control."
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2023-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -29,8 +29,8 @@ featured: false
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf:  ESSAY.pdf
+url_code: ''
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
