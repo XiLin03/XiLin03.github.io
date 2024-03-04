@@ -3,7 +3,7 @@ title: Research on Object Detection of Robotic based on Convolutional Neural Net
 summary: accepted by the 2023 3rd International Conference on Image Processing and Intelligent Control.
 tags:
   - AI for Robots 
-date: '2016-04-27T00:00:00Z'
+date: '2024-02-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -30,8 +30,8 @@ url_video: ''
 slides: example
 ---
 
-• Read literature related to deep learning and computer vision.
-• Detected objects in images and videos using the YOLO v5 model.
-• Completed the paper based on experimental results. Prepared for the academic poster and presentations at a conference.
-• Now learning the knowledge concerning SLAM.
+* Read literature related to deep learning and computer vision.
+* Detected objects in images and videos using the YOLO v5 model.
+* Completed the paper based on experimental results. Prepared for the academic poster and presentations at a conference.
+* Now learning the knowledge concerning SLAM.
 
