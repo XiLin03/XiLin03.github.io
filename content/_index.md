@@ -127,7 +127,7 @@ sections:
           icon: coursera
           organization: 
           organization_url: 
-          title: 'National Third Prize in the Digital-Design-Dimensions Show, 3D Show Committee	Dec. 2023'
+          title: 'National Third Prize in the Digital-Design-Dimensions Show, 3D Show Committee	Dec.2023'
           url: ''
         - certificate_url: https://github.com/XiLin03/XiLin03.github.io/tree/main/assets/2.pdf
           date_end: ''
