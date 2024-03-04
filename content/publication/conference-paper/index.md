@@ -1,23 +1,22 @@
 ---
-title: 'An example conference paper'
+title: 'Research on Object Detection of Robotic based on Convolutional Neural Network'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+  - Xi Lin
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2023-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-01-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -28,7 +27,10 @@ publication_types: ['paper-conference']
 publication: In *Hugo Blox Builder Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: With the continuous development of computer vision, objects detection methods are widely devised to achieve the target objects identification for robotics. Indeed, object detection of robotics has become an essential component to recognize the avoid conflict among these objects and robotics. However, existing detection are primarily used deep learning or select the target area to recognize the objects, which ignores the convolutional neural network and leaks investigation for detecting multiple objects for robotics. In this work, we proposed a novel objects detection model of robotics through utilizing the convolutional neural network, which can also utilize to dispose the classification issue. Initially, we capture the robotic input images through robotic vision and subsequently the trained convolutional neural network is utilized to identify the input image objects from split input data. From our extensive experimental results, we can conclude that the proposed model can achieve the objects detection with acceptable identification accuracy and reasonable computation cost. Keywords: Computer vision, Robotics, Object detection, Convolutional neural network, Computation cost 
+Type conference paper.
+Publication 2023 3rd International Conference on Image Processing and Intelligent Control.
+
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -44,13 +46,13 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
