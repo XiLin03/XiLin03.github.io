@@ -17,7 +17,7 @@ links:
     icon_pack: fab
     name: Follow
     url: https://github.com/XiLin03
-url_code: ''
+url_code: 'https://github.com/XiLin03/XiLin03.github.io/tree/main/assets/7.prt'
 url_pdf: ''
 url_slides: ''
 url_video: ''
