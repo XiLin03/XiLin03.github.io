@@ -1,5 +1,5 @@
 ---
-title: NCSU GEARS- Robotics: Design, Control and Deep Learning	
+title: NCSU GEARS- Robotics:Design, Control and Deep Learning	
 summary: North Carolina State University Summer Research Program
 tags:
   - AI for Robots 
