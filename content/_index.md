@@ -124,7 +124,7 @@ sections:
           date_end: ''
           date_start: '2023-12-25'
           description: 'A computer-aided design competition co-organised by the National 3D Digital Innovation Design Competition Organising Committee and the Ministry of Education.'
-          icon: 3d
+          icon: 3d.jpg
           organization: 
           organization_url: 
           title: 'National Third Prize in the Digital-Design-Dimensions Show, 3D Show Committee	Dec.2023'
@@ -142,7 +142,7 @@ sections:
           date_end: '2023-10-21'
           date_start: '2023-12-01'
           description: 'University-level innovation and entrepreneurship competitions held by Dalian University of Technology, with an award rate of 20 per cent of participants.'
-          icon: nte
+          icon: net.jpg
           organization: Internet +
           organization_url: 
           title: 'Second Prize in The 9th China International “Internet +” College Students Innovation and Entrepreneurship Competition DLUT On-campus Selection Competition DLUT	Aug.2023'
