@@ -122,17 +122,25 @@ sections:
       items:
         - certificate_url: https://github.com/XiLin03/XiLin03.github.io/tree/main/assets/1.pdf
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2023-12-25'
           description: 'A computer-aided design competition co-organised by the National 3D Digital Innovation Design Competition Organising Committee and the Ministry of Education.'
           icon: coursera
           organization: 
           organization_url: 
           title: 'National Third Prize in the Digital-Design-Dimensions Show, 3D Show Committee	Dec.2023'
           url: ''
-
+        - certificate_url: https://github.com/XiLin03/XiLin03.github.io/tree/main/assets/2.pdf
+          date_end: ''
+          date_start: '2023-11-01'
+          description: 'Scholarships established by Dalian University of Technology to encourage students' efforts in the output of academic results/competition results, with an award rate of 1.5 percent of all university personnel.'
+          icon: org-gc
+          organization: DLUT
+          organization_url: https://www.dlut.edu.cn/
+          title: 'Science and Technology Innovation Scholarship, DLUT	Sept 2023'
+          url: ''
         - certificate_url: https://github.com/XiLin03/XiLin03.github.io/tree/main/assets/3.pdf
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_end: '2023-10-21'
+          date_start: '2023-12-01'
           description: 'University-level innovation and entrepreneurship competitions held by Dalian University of Technology, with an award rate of 20 per cent of participants'
           icon: datacamp
           organization: DataCamp
@@ -140,12 +148,12 @@ sections:
           title: 'Second Prize in The 9th China International “Internet +” College Students Innovation and Entrepreneurship Competition DLUT On-campus Selection Competition DLUT	Aug. 2023'
           url: ''
         - certificate_url: https://github.com/XiLin03/XiLin03.github.io/tree/main/assets/4.pdf
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: 'Bronze Prize in the 18th College Student Programming Competition DLUT	Nov. 2022'
+          date_end: '2022-11-21'
+          date_start: '2022-12-01'
+          description: 'Competitions focusing on algorithmic questions, with an award rate of 50 per cent of participants'
           icon: org-gc
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
+          organization: DLUT
+          organization_url: https://www.dlut.edu.cn/
           title: 'Bronze Prize in the 18th College Student Programming Competition DLUT	Nov. 2022'
           url: ''
     design:
