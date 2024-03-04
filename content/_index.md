@@ -110,42 +110,51 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Competition & Honor'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
+      date_format: Jan 2024
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://github.com/XiLin03/XiLin03.github.io/tree/main/assets/
           date_end: ''
           date_start: '2021-01-25'
-          description: ''
+          description: 'A computer-aided design competition co-organised by the National 3D Digital Innovation Design Competition Organising Committee and the Ministry of Education.'
           icon: coursera
-          organization: Coursera
+          organization: 
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: National Third Prize in the Digital-Design-Dimensions Show, 3D Show Committee	Dec. 2023
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
+          description: 'Scholarships established by Dalian University of Technology to encourage students' efforts in the output of academic results/competition results, with an award rate of 1.5 percent of all university personnel.'
+          icon: org-gc
           organization: edX
           organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
+          title: Science and Technology Innovation Scholarship, DLUT	Sept 2023
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
-          description: ''
+          description: 'University-level innovation and entrepreneurship competitions held by Dalian University of Technology, with an award rate of 20 per cent of participants'
           icon: datacamp
           organization: DataCamp
           organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          title: 'Second Prize in The 9th China International “Internet +” College Students Innovation and Entrepreneurship Competition DLUT On-campus Selection Competition DLUT	Aug. 2023'
+          url: ''
+        - certificate_url: https://www.datacamp.com
+          date_end: '2020-12-21'
+          date_start: '2020-07-01'
+          description: 'Bronze Prize in the 18th College Student Programming Competition DLUT	Nov. 2022'
+          icon: org-gc
+          organization: DataCamp
+          organization_url: https://www.datacamp.com
+          title: 'Bronze Prize in the 18th College Student Programming Competition DLUT	Nov. 2022'
           url: ''
     design:
       columns: '2'
