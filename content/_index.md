@@ -120,7 +120,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://github.com/XiLin03/XiLin03.github.io/tree/main/assets/1.jpg
+        - certificate_url: https://github.com/XiLin03/XiLin03.github.io/tree/main/assets/4.jpg
           date_end: ''
           date_start: '2023-12-25'
           description: 'A computer-aided design competition co-organised by the National 3D Digital Innovation Design Competition Organising Committee and the Ministry of Education.'
@@ -147,7 +147,7 @@ sections:
           organization_url: 
           title: 'Second Prize in The 9th China International “Internet +” College Students Innovation and Entrepreneurship Competition DLUT On-campus Selection Competition DLUT	Aug.2023'
           url: ''
-        - certificate_url: https://github.com/XiLin03/XiLin03.github.io/tree/main/assets/4.jpg
+        - certificate_url: https://github.com/XiLin03/XiLin03.github.io/tree/main/assets/1.jpg
           date_end: '2022-11-21'
           date_start: '2022-12-01'
           description: 'Competitions focusing on algorithmic questions, with an award rate of 50 per cent of participants.'
