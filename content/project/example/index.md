@@ -13,13 +13,13 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon: github
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://github.com/XiLin03
 url_code: ''
-url_pdf: ''
-url_slides: ''
+url_pdf: 'https://github.com/XiLin03/XiLin03.github.io/tree/main/assets/essay.pdf'
+url_slides: 'https://github.com/XiLin03/XiLin03.github.io/tree/main/assets/poster.pdf'
 url_video: ''
 
 # Slides (optional).
