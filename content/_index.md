@@ -132,7 +132,7 @@ sections:
         - certificate_url: https://github.com/XiLin03/XiLin03.github.io/tree/main/assets/2.pdf
           date_end: ''
           date_start: '2023-11-01'
-          description: 'Scholarships established by Dalian University of Technology to encourage students' efforts in the output of academic results/competition results, with an award rate of 1.5 percent of all university personnel.'
+          description: 'Scholarships established by Dalian University of Technology to encourage students' efforts in the output of academic results/competition results, with an award rate of 1.5 percent of all university personnel'
           icon: org-gc
           organization: DLUT
           organization_url: https://www.dlut.edu.cn/
