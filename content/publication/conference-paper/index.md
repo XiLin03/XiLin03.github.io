@@ -33,7 +33,7 @@ abstract:
 summary: With the continuous development of computer vision, objects detection methods are widely devised to achieve the target objects identification for robotics. Indeed, object detection of robotics has become an essential component to recognize the avoid conflict among these objects and robotics. However, existing detection are primarily used deep learning or select the target area to recognize the objects, which ignores the convolutional neural network and leaks investigation for detecting multiple objects for robotics. In this work, we proposed a novel objects detection model of robotics through utilizing the convolutional neural network, which can also utilize to dispose the classification issue. Initially, we capture the robotic input images through robotic vision and subsequently the trained convolutional neural network is utilized to identify the input image objects from split input data. From our extensive experimental results, we can conclude that the proposed model can achieve the objects detection with acceptable identification accuracy and reasonable computation cost.
 
 
-tags: [Computer vision] [ Robotics] [Object detection]  [Convolutional neural network] [Computation cost 
+tags: [Computer vision],[ Robotics],[Object detection],[Convolutional neural network],[Computation cost 
 Type conference paper]
 
 # Display this page in the Featured widget?
