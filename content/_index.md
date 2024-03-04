@@ -132,7 +132,7 @@ sections:
         - certificate_url: https://github.com/XiLin03/XiLin03.github.io/tree/main/assets/2.pdf
           date_end: '2023-11-21'
           date_start: '2023-11-01'
-          description: 'Scholarships established by Dalian University of Technology to encourage students' efforts in the output of academic results/competition results, with an award rate of 1.5 percent of all university personnel'
+          description: 'Scholarships established by Dalian University of Technology to encourage students efforts in the output of academic results/competition results, with an award rate of 1.5 percent of all university personnel.'
           icon: org-gc
           organization: DLUT
           organization_url: https://www.dlut.edu.cn/
@@ -141,7 +141,7 @@ sections:
         - certificate_url: https://github.com/XiLin03/XiLin03.github.io/tree/main/assets/3.pdf
           date_end: '2023-10-21'
           date_start: '2023-12-01'
-          description: 'University-level innovation and entrepreneurship competitions held by Dalian University of Technology, with an award rate of 20 per cent of participants'
+          description: 'University-level innovation and entrepreneurship competitions held by Dalian University of Technology, with an award rate of 20 per cent of participants.'
           icon: datacamp
           organization: DataCamp
           organization_url: https://www.datacamp.com
@@ -150,7 +150,7 @@ sections:
         - certificate_url: https://github.com/XiLin03/XiLin03.github.io/tree/main/assets/4.pdf
           date_end: '2022-11-21'
           date_start: '2022-12-01'
-          description: 'Competitions focusing on algorithmic questions, with an award rate of 50 per cent of participants'
+          description: 'Competitions focusing on algorithmic questions, with an award rate of 50 per cent of participants.'
           icon: org-gc
           organization: DLUT
           organization_url: https://www.dlut.edu.cn/
