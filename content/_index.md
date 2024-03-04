@@ -129,14 +129,14 @@ sections:
           organization_url: 
           title: 'National Third Prize in the Digital-Design-Dimensions Show, 3D Show Committee	Dec.2023'
           url: ''
-        - certificate_url: https://github.com/XiLin03/XiLin03.github.io/tree/main/assets/2.pdf
-          date_end: ''
-          date_start: '2023-11-01'
-          description: 'Scholarships established by Dalian University of Technology to encourage students' efforts in the output of academic results/competition results, with an award rate of 1.5 percent of all university personnel'
-          icon: org-gc
-          organization: DLUT
-          organization_url: https://www.dlut.edu.cn/
-          title: 'Science and Technology Innovation Scholarship, DLUT	Sept 2023'
+        - certificate_url: https://github.com/XiLin03/XiLin03.github.io/tree/main/assets/3.pdf
+          date_end: '2023-10-21'
+          date_start: '2023-12-01'
+          description: 'University-level innovation and entrepreneurship competitions held by Dalian University of Technology, with an award rate of 20 per cent of participants'
+          icon: datacamp
+          organization: DataCamp
+          organization_url: https://www.datacamp.com
+          title: 'Second Prize in The 9th China International “Internet +” College Students Innovation and Entrepreneurship Competition DLUT On-campus Selection Competition DLUT	Aug. 2023'
           url: ''
         - certificate_url: https://github.com/XiLin03/XiLin03.github.io/tree/main/assets/3.pdf
           date_end: '2023-10-21'
