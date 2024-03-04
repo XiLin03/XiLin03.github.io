@@ -95,7 +95,7 @@ sections:
         - title: Research Assistant	
           company: Dalian University of Technology
           company_url: ''
-          company_logo: org-x
+          company_logo: org-gc
           location: supervised by Associate Prof. Xuyang Cao
           date_start: '2022-08-01'
           date_end: '2023-03-31'
