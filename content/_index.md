@@ -127,7 +127,7 @@ sections:
           icon: coursera
           organization: 
           organization_url: https://www.coursera.org
-          title: National Third Prize in the Digital-Design-Dimensions Show, 3D Show Committee	Dec. 2023
+          title: 'National Third Prize in the Digital-Design-Dimensions Show, 3D Show Committee	Dec. 2023'
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
@@ -136,7 +136,7 @@ sections:
           icon: org-gc
           organization: edX
           organization_url: https://www.edx.org
-          title: Science and Technology Innovation Scholarship, DLUT	Sept 2023
+          title: 'Science and Technology Innovation Scholarship, DLUT	Sept 2023'
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
