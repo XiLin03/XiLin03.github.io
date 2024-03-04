@@ -35,7 +35,8 @@ Type conference paper
 Publication 2023 3rd International Conference on Image Processing and Intelligent Control.
 
 
-tags: []
+tags: [Computer vision] [ Robotics] [Object detection]  [Convolutional neural network] [Computation cost 
+Type conference paper]
 
 # Display this page in the Featured widget?
 featured: true
