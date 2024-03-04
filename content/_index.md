@@ -120,6 +120,15 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - certificate_url: https://github.com/XiLin03/XiLin03.github.io/tree/main/assets/1.pdf
+          date_end: ''
+          date_start: '2021-01-25'
+          description: 'A computer-aided design competition co-organised by the National 3D Digital Innovation Design Competition Organising Committee and the Ministry of Education.'
+          icon: coursera
+          organization: 
+          organization_url: 
+          title: 'National Third Prize in the Digital-Design-Dimensions Show, 3D Show Committee	Dec.2023'
+          url: ''
 
         - certificate_url: https://github.com/XiLin03/XiLin03.github.io/tree/main/assets/3.pdf
           date_end: '2020-12-21'
