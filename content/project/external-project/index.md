@@ -13,14 +13,14 @@ image:
   focal_point: Smart
 
 links:
-  - icon: GitHub
+  - icon: github
     icon_pack: fab
     name: Follow
     url: https://github.com/XiLin03
 url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+url_pdf: 'https://github.com/XiLin03/XiLin03.github.io/tree/main/assets/DUT.pdf'
+url_slides: 'https://github.com/XiLin03/XiLin03.github.io/tree/main/assets/DUT.pptx'
+url_video: 'https://github.com/XiLin03/XiLin03.github.io/tree/main/assets/poster.mp4'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
