@@ -132,5 +132,5 @@ social:
 highlight_name: true
 ---
 
-Xi Lin is an undergraduate majoring in artificial intelligence at Chongqing University. He has some experience in academic research and is now exploring his new interests and research directions.
+Xi Lin is an undergraduate majoring in mechanical engineering and minoring in automation at Dalian University of Technology. He has some experience in academic research and is now exploring his new interests and research directions.
 {style="text-align: justify;"}
