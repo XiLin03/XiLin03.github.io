@@ -266,7 +266,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        If you need to talk, please feel free to contact me.
       # Contact (add or remove contact options as necessary)
       email: xilin03@outlook.com
       phone: +86 180 0969 2456
