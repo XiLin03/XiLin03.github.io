@@ -17,12 +17,14 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate student from Dalian University of Technology
+role: B.Eng Student from DUT&UCI Joint Program
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Dalian University of Technology
-    url: https://www.dlut.edu.cn/
+    url: https://en.dlut.edu.cn/
+  - name: University of California, Irvine
+    url: https://uci.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include design, manipulation and vision for robots.
@@ -42,7 +44,10 @@ education:
 #    - course: MEng in Artificial Intelligence
 #      institution: Massachusetts Institute of Technology
 #      year: 2009
-    - course: BSc in Mechanical Engineering / Minor in Automation
+    - course: B.Eng. in Mechanical Engineering
+      institution: Dalain University of Technology & University of California, Irvine
+      year: 2021-2025
+    - course: Minor in Automation
       institution: Dalain University of Technology
       year: 2021-2025
 
@@ -132,5 +137,6 @@ social:
 highlight_name: true
 ---
 
-Xi Lin is an undergraduate majoring in mechanical engineering and minoring in automation at Dalian University of Technology. He has some experience in academic research and is now exploring his new interests and research directions.
+Xi Lin is an undergraduate student at Dalian University of Technology. Here, he is majoring in Mechanical Engineering in Dalian University of Technology & University of California, Irvine Joint Program, and pursuing a dual degree in Automation at Dalian University of Technology.
+He has academic research experience in robot design, control, and perception. He is currently exploring new research opportunities during 07/2024-06/2025.
 {style="text-align: justify;"}
