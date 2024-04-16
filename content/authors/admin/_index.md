@@ -27,13 +27,13 @@ organizations:
     url: https://uci.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include design, manipulation and vision for robots.
+bio: My research interests include structure design, learning and perception for robots.
 
 # Interests to show in About widget
 interests:
-  - Mechanical Design
-  - Manipulation of Robots
-  - SLAM
+  - Structure design of Robot
+  - Robot Learning
+  - Perception of Robot
 
 # Education to show in About widget
 education:
@@ -137,6 +137,6 @@ social:
 highlight_name: true
 ---
 
-Xi Lin is an undergraduate student at Dalian University of Technology. Here, he is majoring in Mechanical Engineering in Dalian University of Technology & University of California, Irvine Joint Program, and pursuing a dual degree in Automation at Dalian University of Technology.
-He has academic research experience in robot design, control, and perception. He is currently exploring new research opportunities during 07/2024-06/2025.
+I am an undergraduate student at Dalian University of Technology. Here, he is majoring in Mechanical Engineering in Dalian University of Technology - University of California, Irvine Joint Program, and pursuing a dual degree in Automation at Dalian University of Technology. I have academic research experience in robot design, control, and perception. 
+I am currently exploring new research opportunities during 07/2024-06/2025! OvO
 {style="text-align: justify;"}
