@@ -139,5 +139,5 @@ highlight_name: true
 
 I am an undergraduate student at Dalian University of Technology. Here, he is majoring in Mechanical Engineering in Dalian University of Technology - University of California, Irvine Joint Program, and pursuing a dual degree in Automation at Dalian University of Technology. I have academic research experience in robot design, control, and perception. 
 
-I am currently exploring new research opportunities during 07/2024-06/2025! OvO
+I am preparing to go to JHU to continue my new reasearch beginning at the July.
 {style="text-align: justify;"}
