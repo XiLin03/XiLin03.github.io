@@ -66,7 +66,7 @@ sections:
         - title: Summer Research Intern
           company: Johns Hopkins University
           company_url: ''
-          company_logo: org-x
+          company_logo: org-j
           location: supervised by Associate Prof. Chen Li from JHU
           date_start: '2024-07-30'
           date_end: ''
