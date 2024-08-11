@@ -62,27 +62,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Research Assistant	
-          company: Dalian University of Technology
+
+        - title: Summer Research Intern
+          company: Johns Hopkins University
           company_url: ''
-          company_logo: org-gc
-          location: supervised by Associate Prof. Xuetao Zhang
-          date_start: '2022-10-01'
+          company_logo: org-x
+          location: supervised by Associate Prof. Chen Li from JHU
+          date_start: '2024-07-30'
           date_end: ''
           description: |2-
               Responsibilities include:
-  
-              * Read literature related to deep learning and computer vision.
-              * Detected objects in images and videos using the YOLO v5 model.
-              * Completed the paper based on experimental results. Prepared for the academic poster and presentations at a conference.
-              * Now learning the knowledge concerning SLAM.
-    
-        - title: Research Participant
+
+              * Inspired by the potential energy field theory, the legged robot motion environment modeling was established for cockroaches' complex environmental motion.
+              * A neural network is being built for the system to optimize the cockroach's method of finding the optimal motion posture.
+
+
+        - title: Summer Research Intern
           company: North Carolina State University
           company_url: ''
           company_logo: org-x
-          location: supervised by Full Prof. Hao Su from NCSU
-          date_start: '2023-01-01'
+          location: supervised by Associate Prof. Hao Su from NCSU
+          date_start: '2023-06-01'
           date_end: '2023-08-31'
           description: |2-
               Responsibilities include:
@@ -91,6 +91,21 @@ sections:
               * Read over 10 relevant papers to determine a specific area of interest. 
               * Built Isaac Gym reinforcement learning environments and imported the parameter model of the robotic arm to simulate training of robotic arm gripping and stacking cube tasks, adjusted parameters according to requirements, and completed related experiments. 
               * Designed an academic poster.
+        
+        - title: Research Assistant	
+          company: Dalian University of Technology
+          company_url: ''
+          company_logo: org-gc
+          location: supervised by Associate Prof. Xuetao Zhang
+          date_start: '2022-10-01'
+          date_end: '2022-06-01'
+          description: |2-
+              Responsibilities include:
+  
+              * Read literature related to deep learning and computer vision.
+              * Detected objects in images and videos using the YOLO v5 model.
+              * Completed the paper based on experimental results. Prepared for the academic poster and presentations at a conference.
+              * Now learning the knowledge concerning SLAM.
 
         - title: Research Assistant	
           company: Dalian University of Technology
