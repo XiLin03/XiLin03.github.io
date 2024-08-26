@@ -27,13 +27,13 @@ organizations:
     url: https://uci.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include structure design, learning and perception for robots.
+bio: My research interests include control, learning, perception and structure design for robots.
 
 # Interests to show in About widget
 interests:
-  - Structure design of Robot
-  - Robot Learning
-  - Perception of Robot
+  - Control / Robot Learning
+  - Perception of Robot / SLAM
+  - Structure of Robot
 
 # Education to show in About widget
 education:
@@ -139,5 +139,6 @@ highlight_name: true
 
 I am an undergraduate student at Dalian University of Technology. Here, he is majoring in Mechanical Engineering in Dalian University of Technology - University of California, Irvine Joint Program, and pursuing a dual degree in Automation at Dalian University of Technology. I have academic research experience in robot design, control, and perception. 
 
-I am preparing to go to JHU to continue my new reasearch beginning at the July.
+I am doing research intern in JHU supervised by Prof. Chen Li now.
+Besides, I am looking for PhD position in robotics, plz give me an interview to show myself, thx :) 
 {style="text-align: justify;"}
