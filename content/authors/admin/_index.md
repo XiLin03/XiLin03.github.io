@@ -33,7 +33,7 @@ bio: My research interests include control, learning, perception and structure d
 interests:
   - Control / Robot Learning
   - Perception of Robot / SLAM
-  - Structure of Robot
+  - Structure Design / Legged Robot
 
 # Education to show in About widget
 education:
