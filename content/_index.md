@@ -63,7 +63,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
 
-        - title: Summer Research Intern
+        - title: Research Intern
           company: Johns Hopkins University
           company_url: ''
           company_logo: org-j
