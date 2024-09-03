@@ -139,6 +139,7 @@ highlight_name: true
 
 I am an undergraduate student at Dalian University of Technology. Here, he is majoring in Mechanical Engineering in Dalian University of Technology - University of California, Irvine Joint Program, and pursuing a dual degree in Automation at Dalian University of Technology. I have academic research experience in robot design, control, and perception. 
 
-I am doing research intern in JHU supervised by Prof. Chen Li now.
+I am in JHU now and looking for new research opportunity.
+
 Besides, I am looking for PhD position in robotics, plz give me an interview to show myself, thx :) 
 {style="text-align: justify;"}
